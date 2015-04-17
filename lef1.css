@@ -1,0 +1,21 @@
+#map { 
+	height: 100vh; 
+}
+div#search {
+	background-color: #CCC;
+	position: absolute;
+	bottom: 40px;
+	left: 40px;
+	width: auto;
+	height: auto;
+	padding: 10px;
+    border-radius: 8px;
+}
+div#search input {
+	width: 200px;
+}
+div#results {
+	font-style: sans-serif;
+	color: black;
+	font-size: 75%;
+}
